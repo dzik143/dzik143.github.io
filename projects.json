@@ -1,0 +1,128 @@
+[
+  {
+    "year":  1999,
+    "title": "Ping-pong",
+    "desc":  "Ping-pong game written in QBASIC",
+    "url":   null
+  },
+  {
+    "year":  2000,
+    "title": "Gwiezdna bitwa",
+    "desc":  "2D shoting game written in QBASIC",
+    "url":   "https://github.com/dzik143/gwiezdna-bitwa"
+  },
+  {
+    "year":  2002,
+    "title": "SB16 driver",
+    "desc":  "Legacy 16-bit DOS driver SB16 card using DMA mode, written in x86 assemly",
+    "url":   "https://github.com/dzik143/mpu401-drv"
+  },
+  {
+    "year":  2002,
+    "title": "MPU-401 driver",
+    "desc":  "Legacy 16-bit DOS driver for MPU-401 device written in x86 assembly",
+    "url":   "https://github.com/dzik143/mpu401-drv"
+  },
+  {
+    "year":  2003,
+    "title": "Marcel II",
+    "desc":  "2D platform game written in 16-bit assembly",
+    "url":   "https://github.com/dzik143/marcel2-game"
+  },
+  {
+    "year":  2008,
+    "title": "Hartree-Fock-Roothan (F77)",
+    "desc":  "Naive Hartree-Fock-Roothan implementation in pure FORTRAN77 syntax.",
+    "url":   "https://github.com/dzik143/hfr-f77"
+  },
+  {
+    "year":  2008,
+    "title": "SSE2 matrix multiplication",
+    "desc":  "General matrix multiplication using SSE2 written in x86-32 assembly.",
+    "url":   "https://github.com/dzik143/matmul-sse2"
+  },
+  {
+    "year":  2009,
+    "title": "Hartree-Fock-Roothan (C++)",
+    "desc":  "Naive Hartree-Fock-Roothan implementation in C++",
+    "url":   "https://github.com/dzik143/hfr-cpp"
+  },
+  {
+    "year":  2010,
+    "title": "DOC/XLS repair tool",
+    "desc":  "Working on app to repair corrupted DOC/XLS files (old-binary formats), closed source, on behalf of VIP International.",
+    "url":   null
+  },
+  {
+    "year":  2011,
+    "title": "Virtual Printer",
+    "desc":  "Windows port monitor used on the bottom of remote desktop software, closed source, commercial work on behalf of NoMachine",
+    "url":   null
+  },
+  {
+    "year":  2012,
+    "title": "Virtual Audio Card",
+    "desc":  "WDM audio driver used on the bottom of remote desktop software, closed source, commercial work on behalf of NoMachine",
+    "url":   null
+  },
+  {
+    "year":  2012,
+    "title": "OpenSSH Port",
+    "desc":  "Working on OpenSSH port to native Windows application (without cygwin bindings), commercial work on behalf of NoMachine",
+    "url":   "https://www.nomachine.com/NoMachine-OSS-ports"
+  },
+  {
+    "year":  2013,
+    "title": "Fast changed region detection",
+    "desc":  "Rewrite critical image comparison code as x86/SSE/MMX assembly routine with CPU disptacher, closed source, commercial work on behalf of NoMachine",
+    "url":   null
+  },
+  {
+    "year":  2014,
+    "title": "Tegenaria",
+    "desc":  "Set of C++ utils developed mainly during 2010-2014 for internal use, released under MIT license in 2020",
+    "url":   "https://github.com/dzik143/tegenaria"
+  },
+  {
+    "year":  2014,
+    "title": "Kernel-mode cheat for Counter Strike: Global Offensive",
+    "desc":  "Windows driver, which reads/write from/to csgo.exe process memory and generate fake mouse click in user mode depending on game state.",
+    "url":   "https://github.com/dzik143/hfr-cpp"
+  },
+  {
+    "year":  2015,
+    "title": "Calculla.com",
+    "desc":  "Set of online calculators written in node.js, closed source, commercial work on behalf of KEMU STUDIO, still cooperating.",
+    "url":   "https://calculla.com"
+  },
+  {
+    "year":  2017,
+    "title": "Binary JSON",
+    "desc":  "C and node.js implementations of open <a href=\"http://bjson.org\">BJSON</a> standard.",
+    "url":   "https://github.com/kemu-studio/bjson_c"
+  },
+  {
+    "year":  2019,
+    "title": "Mathsteps",
+    "desc":  "Fork of symbolic math library delivering step-by-step solutions, written in javascript, originally created by <a href=\"https://github.com/evykassirer\">Evy Kassier</a>, work sponsored by KEMU STUDIO.",
+    "url":   "https://github.com/kemu-studio/mathsteps"
+  },
+  {
+    "year":  2020,
+    "title": "Syscall-dump",
+    "desc":  "Dump syscall numbers from local NTDLL.DLL file",
+    "url":   "https://github.com/dzik143/syscall-dump"
+  },
+  {
+    "year":  2020,
+    "title": "PE32+ without imports table",
+    "desc":  "Two methods for retriving addresses of LoadLibrary() and GetProcAddress() without imports table in 64-bit PE executable",
+    "url":   "https://github.com/dzik143/pe64-no-imports"
+  },
+  {
+    "year":  2020,
+    "title": "VIA D700 Drive Recorder",
+    "desc":  "Embedded software for VIA D700 device written in C++, closed source, commercial work on behalf of KEMU STUDIO",
+    "url":   "https://www.viatech.com/en/products/systems/mobile360-d700-drive-recorder/"
+  }
+]
