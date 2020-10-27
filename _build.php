@@ -1,5 +1,9 @@
 <?php
 
+  //
+  // Common html before main content.
+  //
+
   echo "<html>";
     echo '<head>';
       echo '<title>Sylwester Wysocki - home page</title>';
@@ -8,14 +12,15 @@
       include 'style.css';
       echo '</style>';
 
+      echo '<meta name="viewport" content="width=device-width, initial-scale=1" />';
+
     echo '</head>';
     echo '<body>';
 
-    // Html body.
     echo '<h1>Sylwester Wysocki - home page</h1>';
 
     //
-    // Projects.
+    // Projects section.
     //
 
     echo '<hr>';
@@ -36,12 +41,14 @@
 
     foreach ($arrayOfProjects as $project)
     {
+      // Emit year header if needed.
       if ($lastYear !== $project['year'])
       {
         echo '<h3>', $project['year'], '</h3>';
         $lastYear = $project['year'];
       }
 
+      // Fetch next project.
       $titleHtml = (empty($project['url']))
                  ? ('<b>'.$project['title'].'</b>')
                  : ('<a href="'.$project['url'].'">'.$project['title'].'</a>');
@@ -69,7 +76,7 @@
     echo '</ol>';
 
     //
-    // Links.
+    // Links section.
     //
 
     echo '<hr>';
@@ -79,6 +86,9 @@
       echo '<li><a href="https://www.linkedin.com/in/sylwester-wysocki-57b54558/">linkedin profile</a></li>';
     echo '</ul>';
 
-    // Common html foot.
+    //
+    // Common html after main content.
+    //
+
     echo '</body>';
   echo '</html>';
