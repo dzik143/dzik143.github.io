@@ -14,8 +14,8 @@
   {
     "year":  2002,
     "title": "SB16 driver",
-    "desc":  "Legacy 16-bit DOS driver SB16 card using DMA mode, written in x86 assemly",
-    "url":   "https://github.com/dzik143/mpu401-drv"
+    "desc":  "Legacy 16-bit DOS driver SB16 card using DMA mode, written in x86 assembly",
+    "url":   null
   },
   {
     "year":  2002,
@@ -50,7 +50,7 @@
   {
     "year":  2010,
     "title": "DOC/XLS repair tool",
-    "desc":  "Working on app to repair corrupted DOC/XLS files (old-binary formats), closed source, on behalf of VIP International.",
+    "desc":  "Working on app to repair corrupted <a href=\"https://docs.microsoft.com/en-us/openspecs/office_file_formats/ms-doc/ccd7b486-7881-484c-a137-51170af7cc22\">doc</a> and <a href=\"https://docs.microsoft.com/en-us/openspecs/office_file_formats/ms-xls/cd03cb5f-ca02-4934-a391-bb674cb8aa06\">xls</a> files (old binary formats), closed source, commercial work on behalf of <a href=\"https://web.archive.org/web/20120312174217/http://www.vip-inter.com/produkty.html\">VIP International</a>.",
     "url":   null
   },
   {
@@ -98,7 +98,7 @@
   {
     "year":  2017,
     "title": "Binary JSON",
-    "desc":  "C and node.js implementations of open <a href=\"http://bjson.org\">BJSON</a> standard.",
+    "desc":  "C and node.js implementations of <a href=\"http://bjson.org\">BJSON</a> format.",
     "url":   "https://github.com/kemu-studio/bjson_c"
   },
   {
