@@ -124,5 +124,23 @@
     "title": "VIA D700 Drive Recorder",
     "desc":  "Embedded software for VIA D700 device written in C++, closed source, commercial work on behalf of KEMU STUDIO",
     "url":   "https://www.viatech.com/en/products/systems/mobile360-d700-drive-recorder/"
+  },
+  {
+    "year":  2023,
+    "title": "Crypto trading operations system",
+    "desc":  "Backend for a cryptocurrency trading management platform, including integration with a <a href='https://sumsub.com'>third-party AML provider</a> and <a href='https://modulusfe.com/'>Modulus</a> platform. Closed source, commercial work on behalf of <a href='https://londonlink.io/'>LondonLink</a>.",
+    "url":   null
+  },
+  {
+    "year":  2024,
+    "title": "QCRef",
+    "desc":  "Reference implementation of molecular integrals over Gaussian-Type Orbitals (GTO).",
+    "url":   "https://github.com/dzik143/qcref"
+  },
+  {
+    "year":  2024,
+    "title": "Snowplow replacement",
+    "desc":  "In-house replacement for a <a href='https://docs.snowplow.io'>Snowplow-based</a> pipeline processing 30+ TB/day, reducing CPU requirements from 1,200 to 120 cores. Closed source, commercial work on behalf of <a href='https://ozoneproject.com/'>Ozone Project</a>.",
+    "url":   null
   }
 ]
