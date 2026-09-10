@@ -31,7 +31,7 @@
 
     // Sort projects by year descending.
     usort($arrayOfProjects, function($a, $b) {
-      return $a['year'] < $b['year'];
+      return $b['year'] <=> $a['year'];
     });
 
     // Render projects beginning from the newest one.
