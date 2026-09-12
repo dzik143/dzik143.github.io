@@ -72,6 +72,12 @@
     "url":   "https://www.nomachine.com/NoMachine-OSS-ports"
   },
   {
+    "year":  2012,
+    "title": "Search engine / agreggator",
+    "desc":  "Crawler with 400+ data sources, serving 30k+ daily active users, maintained the service for 9 years (2012-2021).",
+    "url":   null
+  },
+  {
     "year":  2013,
     "title": "Fast changed region detection",
     "desc":  "Rewrite critical image comparison code as x86/SSE/MMX assembly routine with CPU disptacher, closed source, commercial work on behalf of NoMachine",
